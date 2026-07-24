@@ -1,4 +1,4 @@
-# 👋 Welcome to the HR Sheets resource library.
+# 👋 Welcome to the HR Sheets Resource Library.
 
 ## Practical Excel resources built for HR professionals
 
